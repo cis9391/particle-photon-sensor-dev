@@ -1,36 +1,6 @@
-# particle.io-photon-high-school-robotics
-Most of the important files from my High School Robotics course using the particle.io photon, a wifi out of the box arduino.
+# sensor development exercises
 
-
-For advanced students in my High School beginner robotics class to proceed quickly through the course so they can start making prototypes or for beginner students in my advanced Robotics Construction class to work at their own pace through some of the harder assignments.
-
-For Machine Learning using Javascript and tensorflowjs in the web browser try my site at:  https://www.rocksetta.com/tensorflowjs/ 
-
-
-
-
-
-Hopefully this repository will stay reasonably static so that it matches the video series at
-
-https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
-
-
-
-
-[![particle.io photon high school robotics](http://img.youtube.com/vi/zRZJHMFL0p4/0.jpg)](https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr)
-
-
-
-
-.
-
-
-
-
-.
 ## Good References
-
-
 
 [Photon.io](https://www.particle.io/) 
 
@@ -82,19 +52,18 @@ https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
 1. a17-particle-mesh working on it Jan 2019. Check it out as interesting things are added as they are understood.<br>
    Mesh networking is in the early stages of working with Google Nests, OpenThread. Tutroials at [openthread.io](https://openthread.io/) and [the openthread github](https://github.com/openthread). 
    
-   More to come late 2019
+   More to come in late 2019
    
-   My draft Openthread installation page is [here](https://hpssjellis.github.io/particle.io-photon-high-school-robotics/a17-particle-mesh/openthread/install-openthread.html). Note: Openthread makes the firmware for devices, the Border Router connects the device to the internet and wpantund controls everything.
+   A draft Openthread installation page is [here](https://hpssjellis.github.io/particle.io-photon-high-school-robotics/a17-particle-mesh/openthread/install-openthread.html). Note: Openthread makes the firmware for devices, the Border Router connects the device to the internet and wpantund controls everything.
 
 
+1. a18 GPS
 
-1. a18 GPS. I havn't made a video yet, but working code is here.
+1. a19 Accelerometer
 
-1. a19 Accelerometer. I havn't made a video yet, but working code is here.
+1. a20. FSLP  5 Inch  Touch Strip
 
-1. a20. FSLP  5 Inch  Touch Strip. I havn't made a video yet, but working code is here.
-
-1. a21 RangeFinder.   I havn't made a video yet, but working code is here.
+1. a21 RangeFinder
 ----------------------------------------------------------------------------------------------------------------------------
 
 
@@ -104,45 +73,7 @@ These are really good extras, everyone should have a look at all 3 of them.
 1. Advanced Rasperry PI [video at](https://www.youtube.com/watch?v=h5NnSbo351I&index=1&list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr) has it's own github site at https://github.com/hpssjellis/particle-photon-raspberry-pi-iot
 
 
-
-
-
 1. Advanced websockets [video at](https://www.youtube.com/watch?v=zRZJHMFL0p4&index=2&list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr&t=5s) has it's own github site at https://github.com/hpssjellis/Particle-Spark-Core-Photon-Websocket-Hack
-
-
-
-1. Video [The IoT rant](https://youtu.be/1ZYcCXPAMPo?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr) When I first started researching Robotics for the classroom I looked into what other teachers were doing with Lego Mindstorms, VEX robotics, First programs. I had already messed around with Stamp micro-controllers and new about Arduino's and the Raspberry Pi's. All of these were great but I didn't really like them for the High School classroom. Either they were more like clubs for school competitions or just really confusing to even turn on a few LED's. Arduinos also have several versions which causes some issues.
-
-
-I found out about the Particle.io Photon predecessor the Spark Core and purchased it and started working with it but was really frustrated by all the weird issues surrounding learning robotics. However, as a multi-year computer programming teacher I was really impressed with the online IDE https://build.particle.io/ and the ability to flash code wirelessly, since installing software into school computers has always been a frustrating route.
-Website for the video [here](https://www.rocksetta.com/spark-core-photon/iot-rant/)
-
-Enjoy the rant.
-
-
-
-
-
-
-.
-
-
-
-
-.
-
-
-
-
-
-.
-
-
-
-
-
-
-
 
 
 My main github location
@@ -157,14 +88,6 @@ https://github.com/hpssjellis/spark-core-web-page-html-control
 
 Fast websocket node js communication
 https://github.com/hpssjellis/Particle-Spark-Core-Photon-Websocket-Hack
-
-
-
-
-
-
-
-
 
 
 
